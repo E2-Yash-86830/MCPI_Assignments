@@ -1,8 +1,3 @@
-/*
-Author: Nilesh Ghule <nilesh@sunbeaminfo.com>
-Course: PG-DESD @ Sunbeam Infotech
-Date: Sep 19, 2024
-*/
 
 #include "led.h"
 
