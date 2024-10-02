@@ -1,0 +1,2 @@
+../Src/timer.c:8:6:Timer_Init	1
+../Src/timer.c:13:6:Timer_Delay	2
