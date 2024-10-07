@@ -1,7 +1,3 @@
-/*
-Author: Hardik-87298
-Date: Sep 26, 2024
-*/
 
 #ifndef SPI_H_
 #define SPI_H_

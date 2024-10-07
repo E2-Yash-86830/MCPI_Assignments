@@ -1,7 +1,3 @@
-/*
-Author: Hardik-87298
-Date: Sep 30, 2024
-*/
 
 #ifndef RTC_H_
 #define RTC_H_

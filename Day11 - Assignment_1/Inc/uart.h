@@ -1,7 +1,3 @@
-/*
-Author: Hardik-87298
-Date: Sep 23, 2024
-*/
 
 #ifndef UART_H_
 #define UART_H_

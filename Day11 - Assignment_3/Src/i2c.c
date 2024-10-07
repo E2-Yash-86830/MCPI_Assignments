@@ -1,7 +1,4 @@
-/*
-Author : Hardik
-Date: Sep 24, 2024
-*/
+
 
 #include "i2c.h"
 

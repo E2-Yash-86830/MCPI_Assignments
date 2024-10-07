@@ -1,7 +1,4 @@
-/*
-Author: Hardik-87298
-Date: Sep 23, 2024
-*/
+
 
 #include "uart.h"
 

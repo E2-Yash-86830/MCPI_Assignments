@@ -1,7 +1,4 @@
-/*
-Author: Hardik-87298
-Date: Sep 30, 2024
-*/
+
 
 #include "rtc.h"
 

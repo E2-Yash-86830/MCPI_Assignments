@@ -1,7 +1,3 @@
-/*
-Author: Hardik-87298
-Date: Sep 26, 2024
-*/
 
 #ifndef I2C_H_
 #define I2C_H_
